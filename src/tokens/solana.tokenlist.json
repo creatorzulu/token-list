@@ -3,7 +3,7 @@
    "address": "<BVenRTPCuJh4nWyFF64w9Fni3uGYtoUnnaN4yC4QZwF9>",
    "symbol": "<PROFF>",
    "name": "<PROFFESOR>",
-   "decimals": <9>,
+   "decimals": 9,
    "logoURI": "<https://postimg.cc/qgWCFjBD>",
    "tags": ["meme", "social","solana"]
 }
