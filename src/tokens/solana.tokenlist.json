@@ -1,10 +1,10 @@
 {
    "chainId": 101,
-   "address": "<BVenRTPCuJh4nWyFF64w9Fni3uGYtoUnnaN4yC4QZwF9>",
-   "symbol": "<PROFF>",
-   "name": "<PROFFESOR>",
-   "decimals": <9>,
-   "logoURI": "<https://postimg.cc/qgWCFjBD>",
+   "address": "BVenRTPCuJh4nWyFF64w9Fni3uGYtoUnnaN4yC4QZwF9",
+   "symbol": "PROFF",
+   "name": "PROFFESOR",
+   "decimals": 9,
+   "logoURI": "https://i.imgur.com/RvUuPdn.png",
    "tags": ["meme", "social","solana"]
 }
 
